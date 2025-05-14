@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/dragonkhoi-mixpanel-mcp-badge.png)](https://mseep.ai/app/dragonkhoi-mixpanel-mcp)
+
 # Mixpanel MCP
 [![smithery badge](https://smithery.ai/badge/@dragonkhoi/mixpanel-mcp)](https://smithery.ai/server/@dragonkhoi/mixpanel-mcp)
 
